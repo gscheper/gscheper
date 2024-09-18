@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello, I'm Max
+### 2nd Year RIT Student | Computer Science Major | Active CSH Member
+#### About Me
+- Working on a bachelor's degree at the Rochester Institute of Technology
+- Working on a few projects when I can and learning about new topics
 
-<!--
-**gscheper/gscheper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### What I'm Up To
+- Learning SQL, Go, and S3 for personal projects
+- Learning Angular and Assembly for school purposes
+- Python statistic analysis
+- S3 document storage
 
-Here are some ideas to get you started:
+#### Tech Stack
+- Languages: Python, Java, C, C++
+- Tools: Git, Visual Studio Code, Vi/Vim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Goals
+- Use my skills in computer science to make projects that help people
