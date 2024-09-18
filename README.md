@@ -11,8 +11,8 @@
 - S3 document storage
 
 ## Tech Stack
-- Languages: Python, Java, C, C++
+- Languages: Python, Java, C, C++, R, Microsoft Office
 - Tools: Git, Visual Studio Code, Vi/Vim
 
 ## Goals
-- Use my skills in computer science to make projects that help people
+- To use my skills in computer science to make projects that help people
