@@ -1,5 +1,5 @@
 ## Hello, I'm Max
-### 2nd Year RIT Student | Computer Science Major | Active CSH Member
+### 3rd Year RIT Student | Computer Science Major | Active CSH Member
 ## About Me
 - Working on a bachelor's degree at the Rochester Institute of Technology
 - Working on a few projects when I can and learning about new topics
